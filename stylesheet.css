@@ -1,17 +1,34 @@
-/* this is a comment in css */
+/* type selector */
+body {
+    background-color: lightgray;
+}
 
 h1 {
-  /* color: red; */
-  /* background-color: blue; */
-  text-align: center;
+    color: green;
+}
+/* we also have class selector and id selector */
+
+/*  we use dot/period for classes */
+.anything-you-like {
+    background-color: purple;
+    color: yellow;
 }
 
-h2 {
-  color: white;
-  background-color: black;
+.something-else {
+    background-color: orange;
+    color: blue
 }
 
-p {
-  color: yellow;
-  background-color: pink;
+.text {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.my-first-class {
+    /* some styles  */
+}
+
+.my-other-class {
+    /* more styles here */
 }
