@@ -1,0 +1,17 @@
+/* this is a comment in css */
+
+h1 {
+  /* color: red; */
+  /* background-color: blue; */
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: yellow;
+  background-color: pink;
+}
